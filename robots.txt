@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-fpbeih.keitaro-tech-rtb.online/sitemap.xml
